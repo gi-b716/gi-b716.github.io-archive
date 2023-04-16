@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>ma开发日记-1</title>
+    <link href="/2023/04/16/%E5%BC%80%E5%8F%91%E6%97%A5%E8%AE%B0-1/"/>
+    <url>/2023/04/16/%E5%BC%80%E5%8F%91%E6%97%A5%E8%AE%B0-1/</url>
+    
+    <content type="html"><![CDATA[<p>好了，来说下我咕了啥吧。<br><img src="https://raw.githubusercontent.com/gi-b716/gi-b716.github.io-image/master/QQ%E6%88%AA%E5%9B%BE20230416203952.png" alt="通过git推送.jpg"><br>首先，可以通过git直接将每次本地提交的代码自动上传到github仓库了。<br>main分支存储所有文件，每次发布新版本手动更新；<br>master分支是git自动提交的。</p><p>然后就是，1.1.0dev1不是发布了没有筛选的搜索吗？<br>现在在写筛选了，目前可以筛选版本（咕）。</p><p>另外就是，1.1.0dev1.1不是修复了1.1.0dev1的BUG吗？<br>今天一测 修复了但完全没修复，人麻了。<del>（反正这个BUG不要紧，下个dev再修复）</del><br><img src="https://raw.githubusercontent.com/gi-b716/gi-b716.github.io-image/master/20230416210319.png" alt="https://github.com/gi-b716/modrinth-api-tools/releases/tag/v1.1.0-dev.1.1"></p><p>顺便说一下，下一个dev正在打包了，马上发 那个BUG也能被修复了！<br>新dev就是筛选版本的功能awa</p><p>没了，晚安</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>modrinth-api小助手</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>ma</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>modrinth-api小助手 1.0.0发布！</title>
     <link href="/2023/03/27/1-0-0%E5%8F%91%E5%B8%83%EF%BC%81/"/>
     <url>/2023/03/27/1-0-0%E5%8F%91%E5%B8%83%EF%BC%81/</url>
